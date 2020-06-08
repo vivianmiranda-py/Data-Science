@@ -20,5 +20,4 @@ Meu portfólio de projetos de Data Science
 
 
 ## Projetos:
-
----
+[* Analisando dados do Airbnb na cidade de Chicago](https://github.com/vivianmiranda-py/Data-Science/blob/master/Analisando_Dados_Airbnb_chicago.ipynb)
