@@ -15,9 +15,9 @@ Meu portfólio de projetos de Data Science
 **Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/vivian-miranda-9821571a6/)
-* [Medium]
 * [Instagram](https://www.instagram.com/viv.ian_miranda/?hl=pt-br)
 
 
 ## Projetos:
+* [Analisando dados do Airbnb - Chicago](https://github.com/vivianmiranda-py/Data-Science/blob/master/Analisando_Dados_Airbnb_chicago%20(1).ipynb)
 
