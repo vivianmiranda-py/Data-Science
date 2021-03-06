@@ -3,7 +3,7 @@ Meu portfólio de projetos de Data Science
 
 
 <p align="center">
-  <img src="file:///C:/Users/Vivian/Downloads/Azul%20Ilustrado%20Tecnologia%20Geral%20LinkedIn%20Banner.png">
+  <img src="file:https://github.com/vivianmiranda-py/Data-Science/blob/master/Azul%20Ilustrado%20Tecnologia%20Geral%20LinkedIn%20Banner.png?raw=true">
 </p>
 
 # Vivian Miranda
