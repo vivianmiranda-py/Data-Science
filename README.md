@@ -7,10 +7,10 @@ Meu portfólio de projetos de Data Science
 </p>
 
 # Vivian Miranda
-<sub>*Data Scientist* and Environmental Manager</sub>
+<sub>Profissional de dados</sub>
 
 
-**Background in:** Data Science, Geoprocessing and Geographic Information System (GIS).
+**Background in:** Dados e  Geoprocessing and Geographic Information System (GIS).
 
 **Links:**
 
