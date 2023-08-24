@@ -10,7 +10,7 @@ Meu portfólio de projetos de Data Science
 <sub>Profissional de dados</sub>
 
 
-**Background in:** Dados e  Geoprocessing and Geographic Information System (GIS).
+**Background in:** Dados e Geographic Information System (GIS).
 
 **Links:**
 
